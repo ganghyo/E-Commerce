@@ -16,11 +16,12 @@
 - **날짜별, 카테고리별 평균 CSAT**
  
 ![날짜별 고객 만족도 점수 평균](https://github.com/ganghyo/E-Commerce/blob/master/CSAT_date_avg.png)
+
+날짜별로 고객 만족도 점수(CSAT)를 봤을 때, Others 항목에서 최소값이 가장 많이 나타나는 것이 확인되었습니다.
+
 Others 카테고리의 CSAT
  
 ![카테고리별 고객 만족도 점수 평균](https://github.com/ganghyo/E-Commerce/blob/master/CSAT_category_avg.png)
-
-날짜별로 고객 만족도 점수(CSAT)를 봤을 때, Others 항목에서 최소값이 가장 많이 나타나는 것이 확인되었습니다.
 
 Others 항목의 세부 항목을 살펴 보면, Call disconnected가 평균 3.23점, Call back request가 평균 3.52점 으로 낮은 수치를 기록했습니다.
 
