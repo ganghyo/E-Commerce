@@ -43,6 +43,8 @@
 ![팀별 고객 응대 횟수](https://github.com/ganghyo/E-Commerce/blob/master/call_manager_cnt.png)
 ![팀별 Call back까지 걸린 평균 시간](https://github.com/ganghyo/E-Commerce/blob/master/call_manager_time_avg.png)
 
+<img src="https://github.com/ganghyo/E-Commerce/blob/master/call_manager_cnt.png", height=800, width=1000>
+
 특히, Olivia Tan 매니저의 팀이 응대 횟수는 적으나 Call back 까지 오래 걸리는 것이 확인됩니다.
 
 ![팀별 고객 만족도 점수 평균](https://github.com/ganghyo/E-Commerce/blob/master/CSAT_manager.png)
