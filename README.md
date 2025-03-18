@@ -37,7 +37,7 @@
 
 ###### 그런데, Call disconnected 와 Call back request 부분에서 만족도 평균 점수가 가장 낮다는 것은 큰 문제가 있다고 판단됩니다.
 
-## EDA(탐색적 데이터 분석)
+## EDA(탐색적 데이터 분석) 및 해결 방안
 1. **팀 별 고객 응대 횟수 및 Call back 까지 걸린 시간**
 
 ![팀별 고객 응대 횟수](https://github.com/ganghyo/E-Commerce/blob/master/call_manager_cnt.png)
@@ -49,16 +49,22 @@
 
 그에 따라 고객 만족도 점수도 2.50점으로 현저히 낮은 것을 확인할 수 있습니다.
 
+→ 해당 팀에 페널티 부과
+
 2. **근무 시간대 별 상담원 수와 Call back 까지 걸린 시간**
 
 ![근무 시간대별 상담원 수 및 Call back까지 걸린 평균 시간](https://github.com/ganghyo/E-Commerce/blob/master/inbound_time_avg_slot.png)
 
-근무 시간대 별로 확인했을 때, Afternoon(12"~"14시) 과 Night(20"~"06) 시간대에 Call back까지 걸린 시간이 길다는 것을 확인할 수 있습니다.
+근무 시간대 별로 확인했을 때, Afternoon(12-14시) 과 Night(20-06) 시간대에 Call back까지 걸린 시간이 길다는 것을 확인할 수 있습니다.
 
 해당 시간대에는 상담원 수가 다른 시간대에 비해 매우 적습니다.
 반면에, Morning(06~12) 에는 상담원 수가 가장 많고, Call back까지 걸린 시간이 매우 짧습니다.
 
 상담원 수에 따라 Call back 시간이 짧다는 것을 확인할 수 있습니다.
+
+→ Afternoon 과 Night 시간대에 상담원 충원
+
+→ Morning 시간대 상담원을 다른 시간대로 배치
 
 3. **상담원 별 응대 횟수**
 
@@ -67,10 +73,22 @@
 
 상담원 별로 응답 횟수 차이가 많이 나는 것을 알 수 있습니다.
 
+→ 경력에 따라 핵심 성과 지표 설정 (평균선 고려)
+목표 초과 달성 시, 어드밴티지 부여
+
+![KPI 설정](https://github.com/ganghyo/E-Commerce/blob/master/inbound_cnt_career.png)
+
+>> 핵심 성과 지표(Key Performance Indicator, KPI)란?
+>> 
+>> 조직의 목표 달성 여부를 평가하고 관리하기 위해 도입된 개념
+>> 
+>> 특정 목표에 맞춰 성과를 관리하고 조직 전체의 방향성을 유지하는 데 큰 기여를 하는 역할을 한다.
+
 4. **근무 시간대 별 상담원 평균 응답 횟수**
 
 ![근무 시간대 별 응대 횟수](https://github.com/ganghyo/E-Commerce/blob/master/inbound_cnt_slot.png)
 근무 시간대에 따라 평균 응대 횟수가 다르다는 것을 알 수 있습니다.
 Night 시간대의 근무자들이 다른 시간대 근무자들보다 평균 10회가 더 많습니다.
 
-## 해결 방안
+→ 시간대 별 상담사 수를 조절하여 인당 응대 건수 조정
+(상담사 수 조정이 불가한 경우, Night 근무시간대의 상담사에게 어드밴티지를 주는 방법도 고려)
