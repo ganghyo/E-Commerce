@@ -15,12 +15,24 @@
 - - -
 ## EDA(탐색적 데이터 분석)
 - **날짜별, 카테고리별 평균 CSAT**
-- 
+  
 ![날짜별 만족도 조사 평균](https://github.com/ganghyo/E-Commerce/blob/master/CSAT_date_avg.png)
 - **Others 카테고리의 CSAT**
-- 
+  
 ![카테고리별 만족도 평균](https://github.com/ganghyo/E-Commerce/blob/master/CSAT_category_avg.png)
 
-> 날짜별로 고객 만족도 점수(CSAT)를 확인해 봤을 때, Others 항목에서 최소값이 가장 많이 확인됐습니다.
+> 날짜별로 고객 만족도 점수(CSAT)를 봤을 때, Others 항목에서 최소값이 가장 많이 나타나는 것이 확인되었습니다.
 >
 > Others 항목의 세부 항목을 살펴 보면, Call disconnected가 평균 3.23점, Call back request가 평균 3.52점 으로 낮은 수치를 기록했습니다.
+> 
+> 이 수치들을 보면, 고객들이 전화 연결 부분에서 불편함을 느끼고 있다고 판단됩니다.
+
+> 당 사의 고객응대 유형은 크게 세 가지로 분류 되는데,
+>
+> ![고객응대 유형](https://github.com/ganghyo/E-Commerce/blob/master/Channel_cnt.png)
+> 
+> Inbound: 79.3% / Outcall: 17.2% / Email: 3.5% 로 전화응대(Inbound) 유형이 가장 많은 부분을 차지합니다.
+>
+> 그런데, Call disconnected 와 Call back request 부분에서 만족도 평균 점수가 가장 낮다는 것은 큰 문제가 있다고 판단됩니다.
+>
+> 
