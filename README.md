@@ -74,6 +74,7 @@
 상담원 별로 응답 횟수 차이가 많이 나는 것을 알 수 있습니다.
 
 → 경력에 따라 핵심 성과 지표 설정 (평균선 고려)
+
 목표 초과 달성 시, 어드밴티지 부여
 
 ![KPI 설정](https://github.com/ganghyo/E-Commerce/blob/master/inbound_cnt_career.png)
@@ -87,6 +88,7 @@
 4. **근무 시간대 별 상담원 평균 응답 횟수**
 
 ![근무 시간대 별 응대 횟수](https://github.com/ganghyo/E-Commerce/blob/master/inbound_cnt_slot.png)
+
 근무 시간대에 따라 평균 응대 횟수가 다르다는 것을 알 수 있습니다.
 Night 시간대의 근무자들이 다른 시간대 근무자들보다 평균 10회가 더 많습니다.
 
