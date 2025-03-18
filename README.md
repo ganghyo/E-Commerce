@@ -15,8 +15,10 @@
 - - -
 ## EDA(탐색적 데이터 분석)
 - **날짜별, 카테고리별 평균 CSAT**
+- 
 ![날짜별 만족도 조사 평균](https://github.com/ganghyo/E-Commerce/blob/master/CSAT_date_avg.png)
 - **Others 카테고리의 CSAT**
+- 
 ![카테고리별 만족도 평균](https://github.com/ganghyo/E-Commerce/blob/master/CSAT_category_avg.png)
 
 > 날짜별로 고객 만족도 점수(CSAT)를 확인해 봤을 때, Others 항목에서 최소값이 가장 많이 확인됐습니다.
