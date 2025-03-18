@@ -53,7 +53,7 @@
 
 ![근무 시간대별 상담원 수 및 Call back까지 걸린 평균 시간](https://github.com/ganghyo/E-Commerce/blob/master/inbound_time_avg_slot.png)
 
-근무 시간대 별로 확인했을 때, Afternoon(12~14시) 과 Night(20~06) 시간대에 Call back까지 걸린 시간이 길다는 것을 확인할 수 있습니다.
+근무 시간대 별로 확인했을 때, Afternoon(12"~"14시) 과 Night(20"~"06) 시간대에 Call back까지 걸린 시간이 길다는 것을 확인할 수 있습니다.
 
 해당 시간대에는 상담원 수가 다른 시간대에 비해 매우 적습니다.
 반면에, Morning(06~12) 에는 상담원 수가 가장 많고, Call back까지 걸린 시간이 매우 짧습니다.
