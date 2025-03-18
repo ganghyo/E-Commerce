@@ -14,4 +14,5 @@
 고객 만족도 데이터를 분석하여, 고객의 요구를 충족하지 못하는 부분을 파악하고, 이를 개선하기 위한 전략적 인사이트를 도출해보겠습니다.
 - - -
 ## EDA(탐색적 데이터 분석)
-https://github.com/ganghyo/E-Commerce/blob/master/CSAT_date_avg.png
+![날짜별 만족도 조사 평균](https://github.com/ganghyo/E-Commerce/blob/master/CSAT_date_avg.png)
+![카테고리별 만족도 평균](https://github.com/ganghyo/E-Commerce/blob/master/CSAT_category_avg)
