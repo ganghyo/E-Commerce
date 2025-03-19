@@ -2,7 +2,7 @@
 스파르타 코딩클럽에서 실시한 재직자 부트캠프 과정에서 진행한 프로젝트입니다.
 - - -
 ## 프로젝트 개요
-고객 만족도 점수(Customer satisfaction score, CSAT)란?
+> 고객 만족도 점수(Customer satisfaction score, CSAT)란?
 
 > 기업이 제공하는 제품이나 서비스에 대한 고객 만족도를 평가하는 중요한 지표
 
