@@ -79,11 +79,11 @@
 
 ![KPI 설정](https://github.com/ganghyo/E-Commerce/blob/master/inbound_cnt_career.png)
 
->> 핵심 성과 지표(Key Performance Indicator, KPI)란?
->> 
->> 조직의 목표 달성 여부를 평가하고 관리하기 위해 도입된 개념
->> 
->> 특정 목표에 맞춰 성과를 관리하고 조직 전체의 방향성을 유지하는 데 큰 기여를 하는 역할을 한다.
+> 핵심 성과 지표(Key Performance Indicator, KPI)란?
+> 
+> 조직의 목표 달성 여부를 평가하고 관리하기 위해 도입된 개념
+> 
+> 특정 목표에 맞춰 성과를 관리하고 조직 전체의 방향성을 유지하는 데 큰 기여를 하는 역할을 한다.
 
 4. **근무 시간대 별 상담원 평균 응답 횟수**
 
